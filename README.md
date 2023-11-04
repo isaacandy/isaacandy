@@ -19,8 +19,8 @@ You can click the Preview link to take a look at your changes.
 
 <!--- <a href="https://twitter.com/isaacandy"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> --->
 <a href="https://github.com/isaacandy"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> 
-<a href="https://www.linkedin.com/in//isaacandy/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a>
-<a href="https://twitter.com/isaacandy"><img src="![image](https://user-images.githubusercontent.com/87749337/220939840-f63a5108-69b1-4ab6-a48b-f5a36a339726.png)" width="32px" height="32px"></a>
+<a href="https://www.linkedin.com/in/isaacandy/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a>
+<a href="https://twitter.com/isaacandy"><img src="https://user-images.githubusercontent.com/87749337/220939840-f63a5108-69b1-4ab6-a48b-f5a36a339726.png" width="32px" height="32px"></a>
 
 - 👋 Hi, I’m @isaacandy
 - 👀 I’m interested in New Techs & Projects
