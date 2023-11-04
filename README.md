@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 ## Stats
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacandy&theme=dracula&hide_langs_below=1" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacandy&theme=dracula&hide_langs_below=1" />
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacandy&show_icons=true&theme=dracula)
 ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=isaacandy&theme=tokyonight)
