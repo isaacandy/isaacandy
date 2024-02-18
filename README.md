@@ -1,5 +1,5 @@
-## - 👋 Hi, I’m Prof. Dr. Isaac Govind Andy
-## - 👀 Present interests: Web3, AI and Blockchain tech
+## 👋 Hi, I’m Prof. Dr. Isaac Govind Andy
+##  👀 Present interests: Web3, AI and Blockchain tech
 
 
 <!---
