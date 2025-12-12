@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/isaacandy/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a>
 <a href="https://twitter.com/isaacandy"><img src="https://user-images.githubusercontent.com/87749337/220939840-f63a5108-69b1-4ab6-a48b-f5a36a339726.png" width="32px" height="32px"></a>
 
-- 👋 Hi, I’m @isaacandy
+- 👋 Hi, I’m [@isaacandy]("https://github.com/isaacandy")
 - 👀 I’m interested in New Techs & Projects
 - 🌱 I’m currently working on an several interesting projects now 
 - 💞️ I’m looking to collaborate on Sales & Marketing
